@@ -1,0 +1,16 @@
+ID,Sector,Code
+0,Agriculture,1
+1,Transportation,3
+2,Services,4
+3,Clothing,5
+4,Health,6
+5,Retail,7
+6,Manufacturing,8
+7,Arts,9
+8,Housing,10
+9,Food,12
+10,Wholesale,13
+11,Construction,14
+12,Education,15
+13,Personal Use,16
+14,Entertainment,17
